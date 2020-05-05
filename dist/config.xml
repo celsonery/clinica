@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<clinica.Config>
+  <host>clinica.db</host>
+  <banco>sqlite</banco>
+  <local>/</local>
+  <destino>clinica_bkp.db</destino>
+  <nivel>1</nivel>
+</clinica.Config>
